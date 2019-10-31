@@ -1,6 +1,7 @@
 {
-  "name": "leaflet",
+  "name": "@zxelec/leaflet",
   "version": "1.5.1",
+  "author": "zxelec",
   "homepage": "https://leafletjs.com/",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
@@ -97,5 +98,11 @@
     "gis",
     "map"
   ],
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Leaflet/Leaflet/issues"
+  },
+  "directories": {
+    "doc": "docs"
+  }
 }
